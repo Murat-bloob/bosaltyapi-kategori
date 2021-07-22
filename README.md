@@ -1,1 +1,1 @@
-# bosaltyapi-kategori
+# bosaltyapi
